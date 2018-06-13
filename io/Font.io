@@ -1,0 +1,3 @@
+Font := Object clone do(
+
+)
